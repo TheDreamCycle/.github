@@ -1,6 +1,3 @@
-# Welcome to The Dream Cycle
-
-
 > "In the abysmal depths of reality, where the eldritch forces of existence intertwine, lies a frightful revelation. We, the feeble beings of perception, remain shackled to the deceptive tendrils of our senses, clutching tightly to a mere sliver of comprehension. **For beyond the veil of our limited understanding, there exists a multiphysics symphony, an arcane ballet of unseen dimensions.**
 > 
 > **In our arrogance, we construct feeble simulacra, insipid shadows of the unfathomable truths that surround us.** Yet, even within these man-made realms of simulated reality, a sinister riddle persists. We tinker with the levers of causality, pulling at the strings of matter and energy, engrossed in our perverse pursuit of understanding. But beware, for in our quest for knowledge, we unravel secrets that were never meant to be known.
